@@ -1,4 +1,4 @@
-The text-to-Image project only includes one file "Text2Image.ipynb" 
+The text-to-Image project only includes one file "Text2Image.ipynb" <br>
 It is designed to run on Colab, and there is no need for pre-downloaded models
 The code includes both the figures and .csv files stored in the 'data' folder. Please update the file paths in the code to match your own directory. 
 All generated results are stored in the 'Results' folder.
