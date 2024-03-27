@@ -10,7 +10,9 @@ Model Installation can take you a lot of time, please be patient
 
 For instruction of the Difusser, you can access the following link:
 https://huggingface.co/docs/diffusers/index
+
 For instruction of the mini DaLLE, you can access the following link:
 https://github.com/borisdayma/dalle-mini
+
 The OpenAI toolkit requires an "API_key," which can be obtained from the provided link:
 https://platform.openai.com/api-keys
